@@ -1,0 +1,5 @@
+#ifndef DEVICE_DESCRIPTOR_H_
+#define DEVICE_DESCRIPTOR_H_
+
+
+#endif /* DEVICE_DESCRIPTOR_H_ */
